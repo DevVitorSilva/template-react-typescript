@@ -1,6 +1,6 @@
 # template-react-typescript
 
-Template para projetos react usando typescript. A ideia é fornecer uma estrutura de pastas já prontas para uso, também usar o json-server para emular uma api, basta editar o arquivo mock/db.json.
+Template para projetos react usando typescript. A ideia é fornecer uma estrutura de pastas já prontas para uso, também usar o json-server para emular uma api. Para configurar o json-server basta editar o arquivo mock/db.json.
 
 Links para mais informações:
 
