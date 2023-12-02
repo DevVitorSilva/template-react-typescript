@@ -15,3 +15,5 @@ npm uninstall nome-da-dependencia
 ```
 
 Projeto inicial criado com o vitejs.
+
+Ao clonar este projeto configure o git remote para poder subir no seu github.
